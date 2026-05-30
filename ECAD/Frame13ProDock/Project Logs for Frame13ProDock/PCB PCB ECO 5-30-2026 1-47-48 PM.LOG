@@ -1,0 +1,67 @@
+Added Component: Designator=J?(0484060003-USBA-Dual-Stack)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/molex/0484060003/4701516"; VariantName = "[No Variations]"
+Added Component: Designator=J?(12402076E512A-USBC)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/12402076E512A/15926893"; VariantName = "[No Variations]"
+Added Component: Designator=J?(12402076E512A-USBC)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/12402076E512A/15926893"; VariantName = "[No Variations]"
+Added Component: Designator=J?(12402076E512A-USBC)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/12402076E512A/15926893"; VariantName = "[No Variations]"
+Added Component: Designator=J?(12402076E512A-USBC)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/12402076E512A/15926893"; VariantName = "[No Variations]"
+Added Component: Designator=J?(12402076E512A-USBC)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/12402076E512A/15926893"; VariantName = "[No Variations]"
+Added Component: Designator=J?(12402076E512A-USBC)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/12402076E512A/15926893"; VariantName = "[No Variations]"
+Added Component: Designator=J?(ARJM11D7-009-AB-EW2-ETHERNET)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/abracon-llc/ARJM11D7-009-AB-EW2/7675229"; VariantName = "[No Variations]"
+Added Component: Designator=PC?(Paw_Connect)
+Added Pin To Net: NetName=GND Pin=J?-A1
+Added Pin To Net: NetName=GND Pin=J?-A1
+Added Pin To Net: NetName=GND Pin=J?-A1
+Added Pin To Net: NetName=GND Pin=J?-A12
+Added Pin To Net: NetName=GND Pin=J?-A12
+Added Pin To Net: NetName=GND Pin=J?-A12
+Added Pin To Net: NetName=GND Pin=J?-B1
+Added Pin To Net: NetName=GND Pin=J?-B1
+Added Pin To Net: NetName=GND Pin=J?-B1
+Added Pin To Net: NetName=GND Pin=J?-B12
+Added Pin To Net: NetName=GND Pin=J?-B12
+Added Pin To Net: NetName=GND Pin=J?-B12
+Added Pin To Net: NetName=GND Pin=J?-SH1
+Added Pin To Net: NetName=GND Pin=J?-SH1
+Added Pin To Net: NetName=GND Pin=J?-SH1
+Added Pin To Net: NetName=GND Pin=J?-SH2
+Added Pin To Net: NetName=GND Pin=J?-SH2
+Added Pin To Net: NetName=GND Pin=J?-SH2
+Added Pin To Net: NetName=GND Pin=J?-SH3
+Added Pin To Net: NetName=GND Pin=J?-SH3
+Added Pin To Net: NetName=GND Pin=J?-SH3
+Added Pin To Net: NetName=GND Pin=J?-SH4
+Added Pin To Net: NetName=GND Pin=J?-SH4
+Added Pin To Net: NetName=GND Pin=J?-SH4
+Added Net: Name=GND
+Added Pin To Net: NetName=VBUS-IN-A Pin=J?-A4
+Added Pin To Net: NetName=VBUS-IN-A Pin=J?-A9
+Added Net: Name=VBUS-IN-A
+Added Pin To Net: NetName=VBUS-IN-B Pin=J?-B4
+Added Pin To Net: NetName=VBUS-IN-B Pin=J?-B9
+Added Net: Name=VBUS-IN-B
+Added Member To Class: ClassName=Connectors Member=Component J? 0484060003-USBA-Dual-Stack
+Added Member To Class: ClassName=Connectors Member=Component J? 12402076E512A-USBC
+Added Member To Class: ClassName=Connectors Member=Component J? 12402076E512A-USBC
+Added Member To Class: ClassName=Connectors Member=Component J? 12402076E512A-USBC
+Added Member To Class: ClassName=Connectors Member=Component J? 12402076E512A-USBC
+Added Member To Class: ClassName=Connectors Member=Component J? 12402076E512A-USBC
+Added Member To Class: ClassName=Connectors Member=Component J? 12402076E512A-USBC
+Added Member To Class: ClassName=Connectors Member=Component J? 12402076E512A-USBC
+Added Member To Class: ClassName=Connectors Member=Component J? ARJM11D7-009-AB-EW2-ETHERNET
+Added Member To Class: ClassName=Connectors Member=Component PC? Paw_Connect
+Added Rule: Name=Schematic Supply Nets

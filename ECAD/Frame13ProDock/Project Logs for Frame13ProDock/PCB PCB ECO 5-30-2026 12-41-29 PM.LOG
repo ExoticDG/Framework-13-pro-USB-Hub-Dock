@@ -1,0 +1,28 @@
+Added Component: Designator=AUX-I?(SJ1-3525NG-PI)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SJ1-3525NG-PI/2295991"; VariantName = "[No Variations]"
+Added Component: Designator=AUX-O?(SJ1-3525NG-GR)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SJ1-3525NG-GR/2295990"; VariantName = "[No Variations]"
+Added Component: Designator=J?(12402076E512A-USBC)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/12402076E512A/15926893"; VariantName = "[No Variations]"
+Added Component: Designator=J?(12402076E512A-USBC)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/12402076E512A/15926893"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetAUX-I?_1 Pin=AUX-I?-1
+Added Pin To Net: NetName=NetAUX-I?_1 Pin=AUX-O?-1
+Added Net: Name=NetAUX-I?_1
+Added Pin To Net: NetName=NetAUX-I?_2 Pin=AUX-I?-2
+Added Pin To Net: NetName=NetAUX-I?_2 Pin=AUX-O?-2
+Added Net: Name=NetAUX-I?_2
+Added Pin To Net: NetName=NetAUX-I?_3 Pin=AUX-I?-3
+Added Pin To Net: NetName=NetAUX-I?_3 Pin=AUX-O?-3
+Added Net: Name=NetAUX-I?_3
+Added Pin To Net: NetName=NetAUX-I?_10 Pin=AUX-I?-10
+Added Pin To Net: NetName=NetAUX-I?_10 Pin=AUX-O?-10
+Added Net: Name=NetAUX-I?_10
+Added Pin To Net: NetName=NetAUX-I?_11 Pin=AUX-I?-11
+Added Pin To Net: NetName=NetAUX-I?_11 Pin=AUX-O?-11
+Added Net: Name=NetAUX-I?_11
+Added Class: Name=Connectors
